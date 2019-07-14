@@ -1,0 +1,41 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>images/Zombies/BucketZombie.gif</file>
+        <file>images/Zombies/HatZombie.gif</file>
+        <file>images/Zombies/HatZombieAttack.gif</file>
+        <file>images/Zombies/NormalZombie.gif</file>
+        <file>images/Zombies/NormalZombieAttack.gif</file>
+        <file>images/Plants/WallNut.gif</file>
+        <file>images/Plants/Bomb.gif</file>
+        <file>images/Plants/Shooter.gif</file>
+        <file>images/Plants/Bullet.gif</file>
+        <file>images/Plants/IceBullet.gif</file>
+        <file>images/Plants/IceShooter.gif</file>
+        <file>images/Zombies/BucketZombieAttack.gif</file>
+        <file>images/Zombies/FootballZombie.gif</file>
+        <file>images/Zombies/FootballZombieAttack.gif</file>
+        <file>images/Plants/Brain.png</file>
+        <file>images/Plants/Booming.gif</file>
+        <file>images/Plants/BulletBreaking.gif</file>
+        <file>images/Zombies/ZombieDie.gif</file>
+        <file>images/Zombies/FootallZombieDie.gif</file>
+        <file>images/interface/background.jpg</file>
+        <file>images/interface/10.png</file>
+        <file>images/interface/20.png</file>
+        <file>images/interface/40.png</file>
+        <file>images/interface/80.png</file>
+        <file>images/interface/10_choosed.png</file>
+        <file>images/interface/20_choosed.png</file>
+        <file>images/interface/40_choosed.png</file>
+        <file>images/interface/80_choosed.png</file>
+        <file>images/interface/startscreen.jpg</file>
+        <file>images/interface/buttonbar.png</file>
+        <file>images/interface/losescreen.jpg</file>
+        <file>images/interface/middlescreen.jpg</file>
+        <file>images/interface/dialog_header.png</file>
+        <file>images/interface/win.png</file>
+        <file>images/Plants/IceBulletBreaking.png</file>
+        <file>images/Plants/WallNutCracked1.gif</file>
+        <file>images/Plants/WallNutCracked2.gif</file>
+    </qresource>
+</RCC>
